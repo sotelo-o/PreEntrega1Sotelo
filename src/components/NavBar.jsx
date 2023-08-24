@@ -28,9 +28,9 @@ const NavBar = () => {
     <nav ClassName="navbar">
       <div ClassName="brand">Mi Tienda</div>
       <div ClassName="categories">
-        <a href="#">Categoría 1</a>
-        <a href="#">Categoría 2</a>
-        <a href="#">Categoría 3</a>
+        <a href="/..">Categoría 1</a>
+        <a href="/..">Categoría 2</a>
+        <a href="/..">Categoría 3</a>
       </div>
       <CartWidget />
       <ItemListContainer greeting="¡Bienvenido a nuestra tienda en línea!" />
